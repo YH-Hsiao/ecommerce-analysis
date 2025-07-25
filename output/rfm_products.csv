@@ -1,0 +1,11 @@
+Product,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+Camera,18,58,82788,1,5,5,11,潛力商品
+Headphones,1,45,64947,5,2,3,10,潛力商品
+Keyboard,2,49,56692,5,3,1,9,潛力商品
+Laptop,7,61,68187,4,5,4,13,明星商品
+Monitor,12,46,57798,2,2,2,6,普通商品
+Mouse,18,41,61227,1,1,2,4,需淘汰
+Printer,3,50,72087,4,3,4,11,潛力商品
+Smartphone,12,56,74177,2,4,5,11,潛力商品
+Smartwatch,8,53,63145,3,4,3,10,潛力商品
+Tablet,8,41,42871,3,1,1,5,需淘汰

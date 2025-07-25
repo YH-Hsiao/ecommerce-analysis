@@ -41,6 +41,7 @@ print(top_products)
 
 import matplotlib.pyplot as plt
 
+
 # === 折線圖：每月銷售趨勢 ===
 plt.figure(figsize=(10,5))
 monthly_sales.plot(kind="line", marker="o")
@@ -62,3 +63,6 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig("top_10_products.png")  # 存圖
 plt.show()
+
+
+
